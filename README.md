@@ -31,7 +31,7 @@ Before training, you need to extract frames from the video datasets (e.g., HMDB5
 To train the model for VAR without any steganography:
 
 ```bash
-python main.py --run_id ucf101_nohide --task har --model r3dpro_ta
+python main.py --run_id ucf101_nohide --task har --model r3d18
 ```
 
 ### Training with Steganography
@@ -41,7 +41,7 @@ To train with steganography enabled, use the `--hide` flag.
 Example command for training with steganography:
 
 ```bash
-python main.py --hide --run_id ucf101_hide --task har --model r3dpro_time_ta --hide_model lfvsn
+python main.py --hide --run_id ucf101_hide --task har --model r3dpro_ta --hide_model lfvsn
 ```
 
 You can also specify different steganography models using the `--hide_model` argument (e.g., `hinet`, `lfvsn`, `wengnet`, `hidden`).
