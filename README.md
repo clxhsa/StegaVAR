@@ -1,6 +1,8 @@
 # StegaVAR
 
-Official implementation of **"StegaVAR: Privacy-Preserving Video Action Recognition via Steganographic Domain Analysis"**. This paper has been accepted by **AAAI 2026**.
+Official implementation of **"StegaVAR: Privacy-Preserving Video Action Recognition via Steganographic Domain Analysis"**. 
+
+🎉🎉Our paper has been accepted by **AAAI 2026**🎉🎉.
 
 <p align="center">
   <img src="assets/fig1_cr.png" width="800" />
