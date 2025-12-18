@@ -2,7 +2,9 @@
 
 Official implementation of **StegaVAR: Privacy-Preserving Video Action Recognition via Steganographic Domain Analysis**. This paper has been accepted by **AAAI 2026**.
 
-![intro](assets/fig1_cr.pdf)
+<p align="center">
+  <img src="assets/fig1_cr.png" width="800" />
+</p>
 
 ## Data Preprocessing
 
@@ -29,7 +31,7 @@ Before training, you need to extract frames from the video datasets (e.g., HMDB5
 To train the model for VAR without any steganography:
 
 ```bash
-python main.py --run_id ucf101_nohide --task har --model r3dpro_time_ta
+python main.py --run_id ucf101_nohide --task har --model r3dpro_ta
 ```
 
 ### Training with Steganography
