@@ -299,9 +299,10 @@ python main.py \
 ```bibtex
 @article{stegavar2025,
   title={StegaVAR: Privacy-Preserving Video Action Recognition via Steganographic Domain Analysis},
-  author={Your Name},
-  journal={Conference/Journal Name},
-  year={2025}
+  author={Chen, Lixin},
+  journal={TBD},
+  year={2025},
+  note={Paper under review}
 }
 ```
 
@@ -311,7 +312,7 @@ python main.py \
 
 ## 👨‍💻 作者
 
-Copyright (c) 2025 Lixin Chen
+Copyright (c) 2024-2025 Lixin Chen
 
 ## 🙏 致谢
 
