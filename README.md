@@ -57,7 +57,7 @@ This project is compatible with the steganography implementations from the follo
 ## BibTeX
 
 ```bibtex
-@misc{chen2025stegavarprivacypreservingvideoaction,
+@misc{chen2025stegavar,
       title={StegaVAR: Privacy-Preserving Video Action Recognition via Steganographic Domain Analysis}, 
       author={Lixin Chen and Chaomeng Chen and Jiale Zhou and Zhijian Wu and Xun Lin},
       year={2025},
